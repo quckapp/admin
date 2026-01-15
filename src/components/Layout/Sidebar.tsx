@@ -46,7 +46,7 @@ export default function Sidebar() {
             <Shield className="w-6 h-6" />
           </div>
           <div>
-            <h1 className="font-bold text-lg">QuckChat</h1>
+            <h1 className="font-bold text-lg">QuckApp</h1>
             <p className="text-xs text-gray-400">Admin Panel</p>
           </div>
         </div>
