@@ -1,4 +1,4 @@
-import api from './api';
+import api from './api/v1';
 import type {
   User,
   DashboardStats,
